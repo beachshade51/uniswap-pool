@@ -9,5 +9,3 @@ contract sidCoinA is ERC20 {
         _mint(msg.sender, 100000 * 10 ** 18);
     }
 }
-
-
