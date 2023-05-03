@@ -10,7 +10,7 @@ require('dotenv').config()
 const WALLET_ADDRESS = process.env.WALLET_ADDRESS;
 const WALLET_PRIVATE_KEY = process.env.PRIVATE_KEY;
 
-const poolAddress = "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+const poolAddress = "0x34b2A61596A27B7b626C995a594E3706D834a8A0"
 const positionManagerAddress = "0xC36442b4a4522E871399CD717aBDD847Ab11FE88"
 
 
